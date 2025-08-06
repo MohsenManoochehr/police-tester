@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "pumpkin-police": "^1.0.0"
+    "pumpkin-police": "^1.0.1"
   }
 }
